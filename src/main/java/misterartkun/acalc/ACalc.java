@@ -9,7 +9,7 @@ O Objetivo deste programa é testar as habilidades Java de seu criador conforme 
 Como o Mister é terrível em cálculo, com esse projeto ele procura matar logo dois coelhos com uma só cajadada. rsrsrs
 */
 
-package com.mister.acalc;
+package misterartkun.acalc;
 
 import java.util.Scanner;
 
